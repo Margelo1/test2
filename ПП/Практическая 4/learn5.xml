@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content>
+<text question = "Набор альтернатив, из которых выбирается одна:"
+answers = "CheckBox**?**RadioButton**?**pushButton"
+correct = "RadioButton">RadioButton - набор альтернатив, из которых выбирается одна.</text>
+
+<text question = "Виджет,который позволяет выбирать из списка:"
+answers = "CheckBox**?**ListBox**?**ComboBox"
+correct = "ComboBox">ComboBox - виджет, который позволяет пользователю выбирать из списка вариантов.</text>
+
+<text question = "Панель вкладок:"
+answers = "Table Widgets**?**List Widgedts**?**Tab Widgets"
+correct = "Tab Widgets">Tab Widgets - панель вкладок.</text>
+</content>
